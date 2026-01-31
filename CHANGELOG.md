@@ -24,4 +24,8 @@ Updates reflect structural, semantic or editorial changes only.
 
 ---
 
+Jan 2026 – Editorial clarifications and footer consistency update (no content or scope changes).
+
+---
+
 _No minor edits, cosmetic changes or routine maintenance entries are documented._
