@@ -25,6 +25,7 @@ Updates reflect structural, semantic or editorial changes only.
 ---
 
 Jan 2026 – Editorial clarifications and footer consistency update (no content or scope changes).
+Jan 2026 — Repository metadata clarification (license and descriptive metadata added).
 
 ---
 
