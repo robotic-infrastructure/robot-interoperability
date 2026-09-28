@@ -1,6 +1,6 @@
-# Changelog — ServiceRobot.com
+# Changelog — Robot Interoperability — Reference Framework
 
-All notable changes to this reference site are documented in this file.
+All notable changes to this reference framework and repository are documented in this file.
 Updates reflect structural, semantic or editorial changes only.
 
 ---
