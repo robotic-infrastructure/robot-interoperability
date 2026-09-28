@@ -30,6 +30,8 @@ Jan 2026 — Repository metadata clarification (license and descriptive metadata
 
 May 2026 — Added root-level llms.txt reference file for machine-readable orientation (non-structural addition).
 
+Sep 2026 — Corrected the changelog identification to refer to the Robot Interoperability — Reference Framework and its repository rather than ServiceRobot.com as the changelog object. Historical entries and the documented relationship to ServiceRobot.com remain unchanged.
+
 ---
 
 _No minor edits, cosmetic changes or routine maintenance entries are documented._
